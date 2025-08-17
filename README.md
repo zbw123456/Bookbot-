@@ -1,4 +1,4 @@
-# Language Learning Bookstore Assistant (English dialogue)
+# Language Learning Bookstore Assistant (English dialogue)-Human-Machine Dialogue Project
 
 ## Quickstart
 - Python 3.10+
