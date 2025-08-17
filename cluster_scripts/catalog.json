@@ -1,0 +1,16 @@
+[
+  {"isbn":"978-0-00001-000-1","title":"English Textbook A1","language":"English","cefr":"A1","genre":"Textbook","format":["Paperback","Ebook"],"price":15.0,"publisher":"LangPress","year":2023,"rating":4.5,"stock":50},
+  {"isbn":"978-0-00001-000-2","title":"English Vocabulary B1","language":"English","cefr":"B1","genre":"Vocabulary","format":["Paperback","Ebook"],"price":19.0,"publisher":"EduText","year":2022,"rating":4.4,"stock":30},
+  {"isbn":"978-0-00001-000-3","title":"German Readers A2","language":"German","cefr":"A2","genre":"Readers","format":["Paperback","Ebook"],"price":18.0,"publisher":"LangPress","year":2023,"rating":4.6,"stock":42},
+  {"isbn":"978-0-00001-000-4","title":"French Grammar B1","language":"French","cefr":"B1","genre":"Grammar","format":["Paperback"],"price":22.0,"publisher":"Grammaire","year":2021,"rating":4.3,"stock":20},
+  {"isbn":"978-0-00001-000-5","title":"Spanish Textbook A2","language":"Spanish","cefr":"A2","genre":"Textbook","format":["Paperback","Ebook"],"price":20.0,"publisher":"Iberica","year":2024,"rating":4.2,"stock":35},
+  {"isbn":"978-0-00001-000-6","title":"Chinese Readers B2","language":"Chinese","cefr":"B2","genre":"Readers","format":["Ebook","Audiobook"],"price":25.0,"publisher":"HanYu","year":2022,"rating":4.1,"stock":18},
+  {"isbn":"978-0-00001-000-7","title":"Japanese Textbook A1","language":"Japanese","cefr":"A1","genre":"Textbook","format":["Paperback"],"price":17.0,"publisher":"Nihon","year":2023,"rating":4.0,"stock":40},
+  {"isbn":"978-0-00001-000-8","title":"Italian Readers A2","language":"Italian","cefr":"A2","genre":"Readers","format":["Paperback"],"price":18.0,"publisher":"ItaliaEdu","year":2023,"rating":4.5,"stock":28},
+  {"isbn":"978-0-00001-000-9","title":"Italian Grammar B1","language":"Italian","cefr":"B1","genre":"Grammar","format":["Paperback","Ebook"],"price":21.0,"publisher":"ItaliaEdu","year":2022,"rating":4.4,"stock":25},
+  {"isbn":"978-0-00001-001-0","title":"Italian Textbook A1","language":"Italian","cefr":"A1","genre":"Textbook","format":["Paperback","Ebook"],"price":16.0,"publisher":"ItaliaEdu","year":2024,"rating":4.3,"stock":33},
+  {"isbn":"978-0-00001-001-1","title":"English Readers B2","language":"English","cefr":"B2","genre":"Readers","format":["Ebook","Audiobook"],"price":24.0,"publisher":"LangPress","year":2022,"rating":4.5,"stock":22},
+  {"isbn":"978-0-00001-001-2","title":"German Grammar C1","language":"German","cefr":"C1","genre":"Grammar","format":["Paperback"],"price":28.0,"publisher":"DeutschPro","year":2021,"rating":4.2,"stock":10},
+  {"isbn":"978-0-00001-001-3","title":"French Readers A2","language":"French","cefr":"A2","genre":"Readers","format":["Paperback","Ebook"],"price":18.0,"publisher":"Lire","year":2023,"rating":4.1,"stock":27},
+  {"isbn":"978-0-00001-001-4","title":"Spanish Vocabulary B1","language":"Spanish","cefr":"B1","genre":"Vocabulary","format":["Ebook"],"price":14.0,"publisher":"Iberica","year":2024,"rating":4.2,"stock":38}
+]
