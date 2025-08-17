@@ -1,0 +1,12 @@
+{"text":"Recommend an Italian A2 reader under €20 (paperback).","intent":"ask_recommendation","slots":{"language":"Italian","level":"A2","genre":"Readers","format":"Paperback","price_max":20}}
+{"text":"I want to find German A2 readers.","intent":"search_books","slots":{"language":"German","level":"A2","genre":"Readers"}}
+{"text":"Add 1 to cart.","intent":"add_to_cart","slots":{}}
+{"text":"Show my cart.","intent":"view_cart","slots":{}}
+{"text":"Checkout now.","intent":"checkout","slots":{}}
+{"text":"Courier delivery.","intent":"choose_delivery","slots":{}}
+{"text":"Ship to 221B Baker Street, London.","intent":"provide_address","slots":{}}
+{"text":"Pay with Visa.","intent":"provide_payment","slots":{}}
+{"text":"Cancel order.","intent":"cancel_order","slots":{}}
+{"text":"I need something below €20.","intent":"filter_by_price","slots":{"price_max":20}}
+{"text":"Do you have English B2 ebooks?","intent":"filter_by_format","slots":{"language":"English","level":"B2","format":"Ebook"}}
+{"text":"Any Italian A1 textbook?","intent":"search_books","slots":{"language":"Italian","level":"A1","genre":"Textbook"}}
