@@ -22,7 +22,7 @@ D9,1,"Need Japanese B2 comprehensive textbook.",get_recommendation,ja,B2,courseb
 D9,2,"Ok, I'll buy Tobira.",checkout,ja,B2,coursebook,academic,,paperback,confirm,"Tobira: Gateway to Advanced Japanese","Confirm purchase of 'Tobira: Gateway to Advanced Japanese'?"
 D9,3,"Confirm.",checkout,ja,B2,coursebook,academic,,paperback,provide_info,"Tobira: Gateway to Advanced Japanese","Order placed. A receipt has been sent."
 D10,1,"Italian C2 exam prep for CILS.",get_recommendation,it,C2,exam_preparation,exam_preparation,,paperback,provide_info,"Preparazione al CILS C2 (Quaderni di pratica)","Here are C2 CILS preparation books."
-D10,2,"Any advanced grammar option?",get_recommendation,it,C2,grammar,academic,,paperback,provide_info,"Grammatica avanzata della lingua italiana","Alternative: Grammatica avanzata della lingua italiana."
+
 D11,1,"Hi there!",small_talk,,,,,,small_talk,,"Hello! How can I help you find a language book today?"
 D11,2,"I'm learning Japanese but not sure my level.",get_recommendation,ja,,,,,,request_info,,"What is your current CEFR level (A1–C2)?"
 D11,3,"Maybe A2.",get_recommendation,ja,A2,coursebook,general,,,request_info,,,"Any preference on topic (coursebook vs exam prep)?"
