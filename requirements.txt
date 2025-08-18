@@ -1,0 +1,37 @@
+# 核心Python版本
+python>=3.8,<4.0
+
+# 数据处理
+numpy
+pandas
+
+# 自然语言处理
+scikit-learn
+spacy
+spacy-transformers
+# 仅需中文时可加: spacy[zh]
+nltk
+
+# 机器学习/深度学习
+torch
+transformers
+
+# 解析/处理JSON、YAML等
+PyYAML
+
+# 后端API接口可选
+fastapi
+uvicorn
+
+# 评估与可视化
+matplotlib
+seaborn
+
+# Latex报告自动生成
+pylatex
+
+# 测试
+pytest
+
+# 其它（如需要PDF、Doc处理等）
+reportlab
