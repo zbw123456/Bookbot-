@@ -12,5 +12,8 @@
   {"isbn":"978-0-00001-001-1","title":"English Readers B2","language":"English","cefr":"B2","genre":"Readers","format":["Ebook","Audiobook"],"price":24.0,"publisher":"LangPress","year":2022,"rating":4.5,"stock":22},
   {"isbn":"978-0-00001-001-2","title":"German Grammar C1","language":"German","cefr":"C1","genre":"Grammar","format":["Paperback"],"price":28.0,"publisher":"DeutschPro","year":2021,"rating":4.2,"stock":10},
   {"isbn":"978-0-00001-001-3","title":"French Readers A2","language":"French","cefr":"A2","genre":"Readers","format":["Paperback","Ebook"],"price":18.0,"publisher":"Lire","year":2023,"rating":4.1,"stock":27},
-  {"isbn":"978-0-00001-001-4","title":"Spanish Vocabulary B1","language":"Spanish","cefr":"B1","genre":"Vocabulary","format":["Ebook"],"price":14.0,"publisher":"Iberica","year":2024,"rating":4.2,"stock":38}
+  {"isbn":"978-0-00001-001-4","title":"Spanish Vocabulary B1","language":"Spanish","cefr":"B1","genre":"Vocabulary","format":["Ebook"],"price":14.0,"publisher":"Iberica","year":2024,"rating":4.2,"stock":38},
+  {"isbn":"978-0-00001-001-5","title":"English Readers C1","language":"English","cefr":"C1","genre":"Readers","format":["Paperback","Ebook"],"price":26.0,"publisher":"LangPress","year":2024,"rating":4.6,"stock":18},
+  {"isbn":"978-0-00001-001-6","title":"English Grammar C1","language":"English","cefr":"C1","genre":"Grammar","format":["Paperback"],"price":27.5,"publisher":"EduText","year":2023,"rating":4.4,"stock":15},
+  {"isbn":"978-0-00001-001-7","title":"English Academic Textbook C1","language":"English","cefr":"C1","genre":"Textbook","format":["Paperback","Ebook"],"price":29.0,"publisher":"AcademicPress","year":2025,"rating":4.5,"stock":20}
 ]
